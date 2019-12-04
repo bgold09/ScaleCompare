@@ -4,4 +4,9 @@
     {
         double GetPitch(int pianoNoteNumber);
     }
+
+    public interface IInterface
+    {
+
+    }
 }
